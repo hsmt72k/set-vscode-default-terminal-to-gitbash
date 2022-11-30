@@ -29,4 +29,4 @@ Ctrl + SHift + PまたはF1でコマンドパレットを開き、"setting"と�
 ```
 
 ### 確認
-`Ctrl + `Shift` + ``` キーで新規ターミナルを起動し、Git Bash が起動すれば OK。
+`Ctrl` + `Shift` + ``` キーで新規ターミナルを起動し、Git Bash が起動すれば OK。
